@@ -3,4 +3,4 @@ lifehacker.com
 news.google.com
 ycombinator.com
 news.ycombinator.com
-
+https://news.ycombinator.com/
