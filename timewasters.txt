@@ -2,3 +2,5 @@ reddit.com
 lifehacker.com
 news.google.com
 ycombinator.com
+news.ycombinator.com
+
